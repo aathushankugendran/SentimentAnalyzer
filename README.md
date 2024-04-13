@@ -33,13 +33,13 @@ nltk.download('wordnet')
 1. Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/your_repository.git
+git clone git@github.com:USERNAME/SentimentClassifier.git
 ```
 
 2. Navigate to the directory containing the code:
 
 ```bash
-cd your_repository
+cd SentimentClassifier
 ```
 
 3. Place your dataset file in the repository. Ensure the dataset is in TSV (Tab-Separated Values) format with columns named "Review" and "Score".
