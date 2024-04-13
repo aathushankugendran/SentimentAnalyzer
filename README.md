@@ -1,4 +1,4 @@
-# Sentiment Analyzer
+# SentimentAnalyzer
 
 This project is aimed at performing sentiment analysis on musical instrument reviews using machine learning techniques. The code provided here utilizes natural language processing (NLP) and a Random Forest classifier to predict whether a review expresses positive or negative sentiment about musical instruments.
 
